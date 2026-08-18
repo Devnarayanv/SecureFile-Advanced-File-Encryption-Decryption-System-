@@ -1,0 +1,2 @@
+# Dependencies for the Python Study Project
+colorama==0.4.6
